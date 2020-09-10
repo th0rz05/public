@@ -1,2 +1,2 @@
 # public
-FPO Public materials for lectures and recitas
+FPRO Public materials for lectures and recitas
