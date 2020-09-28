@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# FPRO, recita #1
+# FPRO, public code
 #
 # Created by: jlopes
 #
