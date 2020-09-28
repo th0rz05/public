@@ -1,12 +1,9 @@
 #!/usr/bin/python3
 
-# FPRO, public code
-#
-# Created by: jlopes
-#
-# Name          : <your name>
-# Collaborators : <your collaborators>
-# Time spent    : <total time>
+"""FPRO, public code
+
+Created by: jlopes
+"""
 
 # my first variable
 greeting = "Hello"
