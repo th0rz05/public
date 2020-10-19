@@ -27,8 +27,6 @@ alex.forward(30)          # Complete the second side of a rectangle
 window.mainloop()         # Wait for user to close window
 turtle.bye()
 
-turtle.bye()
-
 ############
 # 2nd example
 ############
