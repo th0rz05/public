@@ -1,3 +1,4 @@
+188
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
@@ -13,7 +14,8 @@ How to Think Like a Computer Scientist — Learning with Python 3, 2012
 
 import random          # We cover random numbers in the modules chapter
 rng = random.Random()  # "rng" stands for "random number generator"
-number = rng.randrange(1, 1000)  # Get random number between (1 and 1000).
+# number = rng.randrange(1, 1000)  # Get random number between (1 and 1000).
+number = 100
 
 guesses = 0
 message = ""
