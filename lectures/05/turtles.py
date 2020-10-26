@@ -22,7 +22,6 @@ def draw_square(t, sz):
 
 
 wn = turtle.Screen()        # Set up the window and its attributes
-wn.setup(600, 600)          # Set the size of the screen window
 wn.bgcolor("lightgreen")
 wn.title("Alex meets a function")
 
